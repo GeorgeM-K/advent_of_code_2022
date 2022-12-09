@@ -1,0 +1,1 @@
+2022 puzzles until i forget about the challenge
