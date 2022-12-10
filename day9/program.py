@@ -31,7 +31,6 @@ def get_move_direction(h, t):
 
 def move(knots, dir, steps, tail_visits):
     for i in range(steps):
-        # comparison_knots = copy.deepcopy(knots)
         for idx in range(len(knots)):
             if idx == len(knots)-1:
                 continue
